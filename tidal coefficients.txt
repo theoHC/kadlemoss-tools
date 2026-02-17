@@ -1,0 +1,31 @@
+Table 10.1 – Principal Tidal Harmonic Components
+
+---------------------------------------------------------------------------------------------------------
+Name of Partial Tides              Symbol   Speed (deg/mean hr)   Period (solar hr)   Coefficient (M2=100)
+---------------------------------------------------------------------------------------------------------
+
+Semidiurnal components
+Principal lunar                    M2       28.98410              12.42               100.0
+Principal solar                    S2       30.00000              12.00               46.6
+Larger lunar elliptic              N2       28.43973              12.66               19.2
+Lunisolar semidiurnal              K2       30.08214              11.97               12.7
+Larger solar elliptic              T2       29.95893              12.01               2.7
+Smaller lunar elliptic             L2       29.52848              12.19               2.8
+Lunar elliptic second order        2N2      27.89535              12.91               2.5
+Larger lunar evectional            ν2       28.51258              12.63               3.6
+Smaller lunar evectional           λ2       29.45563              12.22               0.7
+Variational                        μ2       27.96821              12.87               3.1
+
+Diurnal components
+Lunisolar diurnal                  K1       15.04107              23.93               58.4
+Principal lunar diurnal            O1       13.94304              25.82               41.5
+Principal solar diurnal            P1       14.95893              24.07               19.4
+Larger lunar elliptic              Q1       13.39866              26.87               7.9
+Smaller lunar elliptic             M1       14.49205              24.84               3.3
+Small lunar elliptic               J1       15.58544              23.10               3.3
+
+Long-period components
+Lunar fortnightly                  Mf       1.09803               327.67              17.2
+Lunar monthly                      Mm       0.54437               661.30              9.1
+Solar semiannual                   Ssa      0.08214               2191.43             8.0
+---------------------------------------------------------------------------------------------------------
