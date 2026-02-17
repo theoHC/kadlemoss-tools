@@ -244,7 +244,7 @@ def compute_hourly(
 
 
 def print_forecast(city: str, target_date: date, hourly: list[HourForecast]) -> None:
-    print(f"{city} — Hourly forecast (imaginary oceanic climate)")
+    print(f"{city} — Hourly forecast (oceanic climate)")
     print(f"Date: {target_date.isoformat()}\n")
     header = (
         "Time  | Temp | Feels | RH  | Wind      | Clouds | PoP | Precip | Condition"
